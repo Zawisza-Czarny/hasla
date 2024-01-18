@@ -1,2 +1,2 @@
 # hasla
-Simple password manager
+Simple password manager created in QT
